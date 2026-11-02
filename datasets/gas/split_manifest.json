@@ -1,0 +1,53 @@
+{
+ "created": "2026-08-19",
+ "labels": [
+  "alkane",
+  "methyl",
+  "alkene",
+  "alkyne",
+  "alcohols",
+  "amines",
+  "nitriles",
+  "aromatics",
+  "alkyl halides",
+  "esters",
+  "ketones",
+  "aldehydes",
+  "carboxylic acids",
+  "ether",
+  "acyl halides",
+  "amides",
+  "nitro"
+ ],
+ "seed": 20260819,
+ "split": [
+  0.8,
+  0.1,
+  0.1
+ ],
+ "n_total": 5854,
+ "n_train": 4683,
+ "n_valid": 585,
+ "n_test": 586,
+ "no_structure": 2,
+ "zero_match": 26,
+ "label_prevalence": {
+  "aromatics": 3769,
+  "alkyl halides": 1868,
+  "nitro": 361,
+  "amines": 821,
+  "alkane": 4898,
+  "methyl": 3637,
+  "ether": 942,
+  "ketones": 545,
+  "alcohols": 1398,
+  "alkene": 566,
+  "nitriles": 302,
+  "aldehydes": 166,
+  "amides": 330,
+  "carboxylic acids": 496,
+  "esters": 777,
+  "acyl halides": 82,
+  "alkyne": 86
+ }
+}

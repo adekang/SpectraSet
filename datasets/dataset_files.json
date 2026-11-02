@@ -1,0 +1,74 @@
+{
+  "schema": "spectraset_dataset_files_v1",
+  "datasets": {
+    "fcg": {
+      "split_manifest_sha256": "5ec32247abaa05fde9ce273a3efdb541c139a70902a67073192bfcd526bf349b",
+      "splits": {
+        "train": {
+          "count": 6342,
+          "names_sha256": "63f3a0c0a7217d9024b8a4565e71a4b031e2c1bf9d3871fb409c1cf64e2fa9f9",
+          "content_sha256": "4e5f1479b6c5a9da0d444f8bec3de2a9948f6d0b58d57d59f6417c77e55b5b75",
+          "total_bytes": 183772134
+        },
+        "valid": {
+          "count": 1387,
+          "names_sha256": "832f4899e2027d1fea8c813bd700816cfb662a47cd9c9d91a81304e9245e632a",
+          "content_sha256": "71d31e62c36f249bb6dd1c59c4ab0e76bf6015069c023c4c433983032490ba39",
+          "total_bytes": 40191099
+        },
+        "test": {
+          "count": 933,
+          "names_sha256": "0f5c529c06c10c309c8602a742dfaae9f8cc673a05754df555fa1e900d9c439b",
+          "content_sha256": "162d1d2c11fb1ecf803b8f049573c13cbe70b07feb89a9ba51931eba59456948",
+          "total_bytes": 27035541
+        }
+      }
+    },
+    "lec": {
+      "split_manifest_sha256": "019779a51f02e1c0cb8c4808ef42ef3d59e53eac199e78c5f065d20bfe1d7d46",
+      "splits": {
+        "train": {
+          "count": 17502,
+          "names_sha256": "f759089cfc138983dece08d50ffd0167bd2ddc38735aabce94c953b0619f2dcd",
+          "content_sha256": "bc4a7434432bcccc4da0f3363e76b8917f685023a258a47ce71687bf3bd02610",
+          "total_bytes": 506972942
+        },
+        "valid": {
+          "count": 3501,
+          "names_sha256": "e1174cc7b8f07a01ac14c38aae3fe15ff9883bd6a090fad8ae586fec9c93586a",
+          "content_sha256": "b97948e2650f7da6557d1ff71c5d104d7e7da47dfa4de5b50b908b212a8cbc25",
+          "total_bytes": 101411629
+        },
+        "test": {
+          "count": 2334,
+          "names_sha256": "c058a5338cc62d95b5bd087112b15060b669ae0de45823beb83a78ac0fa0dc4c",
+          "content_sha256": "72870f8350c942e0efdc9985a4c0edb687e802c4809fb3f2cbc8d2b4bfcb1528",
+          "total_bytes": 67608718
+        }
+      }
+    },
+    "gas": {
+      "split_manifest_sha256": "2d81858dbb99ad70062a8c0d947fe123974f4b974f443bb06a452c80f31f97f2",
+      "splits": {
+        "train": {
+          "count": 4683,
+          "names_sha256": "cbe5a595f50dfbfb093b4d4b0e0764679cecfb8868775e6a3214247f53d52e2d",
+          "content_sha256": "a52d38dca7831556a012106f346a5fba40b818d4ca2b08c3408e9980725ca20f",
+          "total_bytes": 31614933
+        },
+        "valid": {
+          "count": 585,
+          "names_sha256": "fa9bff39f568fe94e7a46366739939649100e740fa7a32cd48e70ead8f1319b1",
+          "content_sha256": "327b40a904792d16d73b2723e26f1606bbe5034721bb8274c3033599033303c4",
+          "total_bytes": 3949335
+        },
+        "test": {
+          "count": 586,
+          "names_sha256": "0710d74580e47b2f2cdb2b4944ed840325a265f4d1c33c491a0cce03a982e1fd",
+          "content_sha256": "7245e2b4d9340ea31bbfc58d5ff41a742711a83a338b7444ec0e27a43703979d",
+          "total_bytes": 3956086
+        }
+      }
+    }
+  }
+}
